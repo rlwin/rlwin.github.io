@@ -1,5 +1,5 @@
 ## Rachel Win
-(https://rlwin.github.io/index.html)
+[website](https://rlwin.github.io/index.html)
 Course work for LEDE 2022 program
 
 ## HOME WORK
