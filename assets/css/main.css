@@ -3334,6 +3334,15 @@ input, select, textarea {
 		padding: 0 2.5em;
 	}
 
+/*chart*/
+
+	#chart > * > .chart{
+		width: 60%
+                margin: 0 auto;
+                display: grid;
+                grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+	}
+
 		@media screen and (max-width: 736px) {
 
 			#wrapper > * > .inner {
