@@ -3336,7 +3336,7 @@ input, select, textarea {
 
 /*chart*/
 
-	#chart > * > .chart{
+	chart{
 		width: 60%
                 margin: 0 auto;
                 display: grid;
