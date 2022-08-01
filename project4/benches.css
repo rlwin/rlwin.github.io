@@ -29,7 +29,7 @@
 
   .title h1 {
     margin: 0;
-    padding: 80px 45px;
+    padding: 20% 10%;
     font-size: 60px;
     font-weight: bold;
     color: rgb(2, 55, 29);
@@ -41,7 +41,7 @@
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
-    padding: 0px 45px;
+    padding: 0% 10%;
     color: rgb(0, 0, 0);
 
 
