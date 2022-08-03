@@ -13,7 +13,7 @@
 .header img {
     width: 100%;
     height: auto;
-    opacity: 60%;
+    opacity: 70%;
 }
 
 .title {
@@ -29,11 +29,12 @@
 
   .title h1 {
     margin: 0;
-    padding: 20% 10%;
-    font-size: 60px;
+    padding: 0% 10%;
+    font-size: 50px;
     font-weight: bold;
     color: rgb(2, 55, 29);
     font-family: Arial, Helvetica, sans-serif;
+    filter: drop-shadow(30px 10px 10px grey);
   }
 
   .title p{
@@ -60,6 +61,3 @@
   }
 
 
-  #ai2html {
-
-  }
