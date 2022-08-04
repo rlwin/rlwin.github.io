@@ -7,42 +7,36 @@
 /* Container holding the image and the text */
 .header {
     position: relative;
+    width: 80%;
+    margin-left: 0%;
+    margin-right: 0%;
+
 
   }
 
 .header img {
+    position: center;
     width: 100%;
     height: auto;
-    opacity: 70%;
+    opacity: 90%;
 }
 
-.title {
-
-    position: absolute;
-    bottom: 5px;
-    left: 35%;
-    transform: translate(-50%, -0%);
-    color: rgb(2,55,29);
-    text-align: left;
-    width: 80%;
-  }
-
   .title h1 {
-    margin: 0;
-    padding: 0% 10%;
-    font-size: 50px;
+    padding-top: 0%;
+    padding-left: 5%;
+    font-size: 5vw;
     font-weight: bold;
     color: rgb(2, 55, 29);
     font-family: Arial, Helvetica, sans-serif;
-    filter: drop-shadow(30px 10px 10px grey);
   }
 
   .title p{
-    margin: 0;
-    font-size: 15px;
+
+    font-size: 1.5vw;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
-    padding: 0% 10%;
+    padding: 0% 5%;
     color: rgb(0, 0, 0);
 
 
@@ -52,8 +46,8 @@
 .containerIntro {
 
     margin: auto;
+    margin-top: 10%;
     width: 80%;
-    padding: 50px;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
